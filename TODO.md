@@ -1,0 +1,10 @@
+- [ ] Update to track # of grammar point
+- [ ] Record # in a text file to allow scraping out of order
+	- [ ] Get XPATH of grammar #
+  - [ ] Have link_crawler() return tuple of links[] and #
+  - [ ] Adjust other functions accordingly to accept link_crawler() output
+  - [ ] Create file write function
+  - [ ] Have initiate_scrape() check file
+- [ ] Refactor into classes
+- [ ] Separate functions into separate documents where need be
+- [ ] Change parameter names to avoid conflicting with each other and global variables
